@@ -1,0 +1,1 @@
+from swin_transformer_model.swin_transformer import SwinTransformer
